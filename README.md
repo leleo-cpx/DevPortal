@@ -4,6 +4,6 @@ Esse projeto surge em função da realização de uma atividade o Curso Técnico
 
 Conheça os colaboradores[^1].
 ##
-[^1]: Leonardo França (leleo.cpx)
-  Kalebe M (kzx-off)
+[^1]: Leonardo França (leleo.cpx).
+  Kalebe M (kzx-off).
 > @tecnico.ds
