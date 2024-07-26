@@ -2,8 +2,8 @@
 
 Esse projeto surge em função da realização de uma atividade o Curso Técnico de Desenvolvimento de Sistemas, no ano de 2024.
 
-> [!IMPORTANT]
-> Collaboration
-> : leleo.cpx & kzx-off.
+Conheça os colaboradores[^1].
 ##
+[^1]: Leonardo França (leleo.cpx)
+  Kalebe M (kzx-off)
 > @tecnico.ds
