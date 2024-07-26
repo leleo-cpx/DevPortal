@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+html {
+    font-size: 0.65rem;
+    font-family: "Kumbh Sans", sans-serif;
+    text-shadow: #0c0c0c;
+    color: #fff;
+    background-color: #0D1117;
+}
+
+body { 
+    margin: 0px;
+    padding: 0px 
+}
+
+header {
+    padding-bottom: 3%;
+}
+
+h1 {
+    font-size: 3.7rem;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 3.3rem;
+    font-weight: 750;
+}
+
+h3 {
+    font-size: 2.4rem;
+    font-weight: 650;
+}
+
+h4 {
+    font-size: 2.3rem;
+    font-weight: 500;
+}
+
+p {
+    font-size: 1.5rem;
+    font-weight: 450;
+}
+
+.code {
+    box-sizing: border-box;
+    font-family: "Source Code Pro", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: #8D929C;
+    background-color: #0D1117;
+    padding: 1rem 2rem 1rem 2rem;
+    border: .1rem solid #30363D;
+    border-left: .5rem solid #3078dd;
+    width: 90%;
+    border-radius: .6rem;
+}
+
+.copycode {
+    box-sizing: border-box;
+    font-family: "Source Code Pro", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    padding: .9rem 1rem .9rem 1rem;
+    border-radius: .6rem;
+    position: fixed;
+    color: #bdbdbd;
+    background-color: #1f1f1f;
+    border: .1rem solid #30363D;
+}
+
+a {
+    color: #3078dd;
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
+
+a:hover {
+    cursor: pointer;
+    color: #95c1ff;
+    transition: all 0.1s ease;
+}
+
+.link1 {
+    color: #8D929C;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.link1:hover {
+    color: #3078dd;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    transition: all .3s ease;
+}
+
+.link2 {
+    color: #3078dd;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.link2:hover {
+    text-decoration: underline;
+    transition: all .2s ease;
+}
+
+.legenda {
+    color: #8D929C;
+    font-weight: 400;
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
+hr {
+    width: 80%;
+    border-color: #191E25;
+    border-radius: 100px;
+}
+
+section hr {
+    width: 100%;
+    border-color: #191E25;
+    border-radius: 100px;
+}
+
+section {
+    box-sizing: border-box;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.cabecalho {
+    top: 0;
+    position: sticky;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background: #010409;
+    color: rgb(255, 255, 255);
+    padding-left: 3%;
+    padding-right: 3%;
+    height: 70px;
+}
+
+.bloco1 {
+    box-sizing: border-box;
+    border: .1rem solid #2a2a2a;
+    padding: 3rem;
+    border-radius: 1rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border-radius: 0 0 10px 10px;
+}
+
+.nav-links li {
+    position: relative;
+    font-size: 1.6rem;
+}
+
+.nav-links a {
+    color: #bfbfbf;
+    text-decoration: none;
+    padding: 0.75rem 1rem;
+    display: block;
+
+}
+
+.nav-links a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0.75rem 1rem;
+    display: block;
+    transition: all 0.2s ease;
+    background-color: #2a2a2a;
+    border-radius: 1rem;
+}
+
+.dropdown-content {
+    border-radius: 5px;
+    display: none;
+    position: absolute;
+    background-color: #04111a;
+    min-width: 160px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    padding: 0.75rem 1rem;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.burger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.burger div {
+    width: 25px;
+    height: 1px;
+    background: #fff;
+    margin: 4px;
+}
+
+.section {
+    padding: 2rem;
+}
+
+#Erro {
+    font-weight: 300;
+    color: #8D929C;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0f0f0f;
+    color: white;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        position: absolute;
+        flex-direction: column;
+        width: 85%;
+        top: 70px;
+        left: -100%;
+        background: #010409;
+        transition: all 0.5s ease;
+    }
+
+    .nav-links li {
+        text-align: center;
+    }
+
+    .nav-links li a {
+        padding: 1rem;
+    }
+
+    .nav-links.active {
+        top: 70px;
+        left: 0px;
+    }
+
+    .burger {
+        display: flex;
+    }
+
+    .dropdown-content{
+        width: 100%;
+        position:static;
+    }
+
+}
