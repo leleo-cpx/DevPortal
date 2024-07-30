@@ -61,6 +61,12 @@ li {
     font-weight: 450;
 }
 
+.pad {
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin: .3rem;
+}
 
 .code {
     box-sizing: border-box;
@@ -68,7 +74,7 @@ li {
     font-weight: 400;
     color: #8D929C;
     background-color: #0D1117;
-    padding: 1rem 2rem 1rem 2rem;
+    padding: 1rem 2rem 2rem 1rem;
     border: .1rem solid #30363D;
     border-left: .25rem solid #3078dd;
     width: 90%;
@@ -170,6 +176,8 @@ section {
     box-sizing: border-box;
     border: .1rem solid #2a2a2a;
     padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
     border-radius: 1rem;
 }
 
@@ -306,7 +314,19 @@ section {
     color: #748ba8;
 }
 
-.iniciarCurso{
+.description2 {
+    color: #c2c2c2;
+    font-weight: 400;
+}
+
+.next {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.neonbt{
     font-family: "Kumbh Sans", sans-serif;
     text-transform: uppercase;
     background-color: #1852a2;
@@ -320,13 +340,19 @@ section {
     font-size: 1.3rem;
 }
 
-.iniciarCurso:hover{
+.neonbt:hover{
     border-color: #3078dd;
     background-color: #008cff;
     box-shadow: 0px 0px 8rem #004ebb7d;
     transition: .2s ease-in-out;
     cursor: pointer;
 }
+
+.conteudo_div {
+    width: 30%;
+    border-radius: 1ch;
+}
+
 
 input[type='checkbox'] {
     display: none;
@@ -396,6 +422,14 @@ input[type='checkbox'] {
         margin-bottom: 0;
 }
 
+.destaque_nome {
+    color: #eef9ff;
+    background-color: #153346;
+    padding: .1rem .8rem .1rem .8rem;
+    border-radius: .5vh;
+    margin: 0;
+}
+
 .footer2{
     padding-top: 10%;
 }
@@ -445,4 +479,46 @@ footer {
         position: static;
     }
 
+    .conteudo_div {
+        width: 100%;
+    }
+
+    /* Tamanhos das fontes */
+    h1 {
+        font-size: 2.5rem;
+        font-weight: 800;
+    }
+    
+    h2 {
+        font-size: 2rem;
+        font-weight: 750;
+        margin: 0;
+    }
+    
+    h3 {
+        font-size: 1.8rem;
+        font-weight: 650;
+        margin: 0;
+    }
+    
+    h4 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        margin: 0;
+    }
+    
+    p {
+        font-size: 1.3rem;
+        font-weight: 450;
+    }
+    
+    .roman{
+        color: #bbbbbb;
+        list-style-type:lower-latin;
+    }
+    
+    li {
+        font-size: 1.3rem;
+        font-weight: 450;
+    }
 }
