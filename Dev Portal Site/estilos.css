@@ -68,6 +68,16 @@ li {
     margin: .3rem;
 }
 
+.font_code {
+    font-family: "Source Code Pro", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: #8D929C;
+}
+
+.white {
+    color: white;
+}
+
 .code {
     box-sizing: border-box;
     font-family: "Source Code Pro", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -104,6 +114,7 @@ li {
     color: #8D929C;
     font-size: 1.5rem;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .link1:hover {
@@ -117,6 +128,7 @@ li {
     color: #3078dd;
     font-size: 1.5rem;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .link2:hover {
@@ -326,6 +338,35 @@ section {
     align-items: center;
 }
 
+.back {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background-color: #00000022;
+    font-family: "Kumbh Sans", sans-serif;
+    text-transform: uppercase;
+    color: #5e5e5e;
+    border: none;
+    border-radius: 7px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.back:hover{
+    border: .2rem solid #232323;
+    color: #ffffff;
+    background-color: #ffffff00;
+    box-shadow: 0px 0px 8rem #000000;
+    font-weight: 500;
+    transition: .2s ease-in-out;
+    cursor: pointer;
+}
+
+
 .neonbt{
     font-family: "Kumbh Sans", sans-serif;
     text-transform: uppercase;
@@ -349,10 +390,14 @@ section {
 }
 
 .conteudo_div {
-    width: 30%;
+    width: 35%;
     border-radius: 1ch;
 }
 
+.conteudo_dica {
+    width: 65%;
+    border-radius: 1ch;
+}
 
 input[type='checkbox'] {
     display: none;
@@ -430,6 +475,14 @@ input[type='checkbox'] {
     margin: 0;
 }
 
+.destaque_aviso {
+    color: #eef9ff;
+    background-color: #4e4114;
+    padding: .1rem .8rem .1rem .8rem;
+    border-radius: .5vh;
+    margin: 0;
+}
+
 .footer2{
     padding-top: 10%;
 }
@@ -480,6 +533,10 @@ footer {
     }
 
     .conteudo_div {
+        width: 100%;
+    }
+
+    .conteudo_dica {
         width: 100%;
     }
 
