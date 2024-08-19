@@ -6,7 +6,7 @@
 
 # Documentation
 
-**[IMG REPOSITORY]** [![Logo1.png](https://i.postimg.cc/4N8WY5Fb/Logo1.png)](https://postimg.cc/))
+**[IMG REPOSITORY]** [![Logo1.png](https://i.postimg.cc/4N8WY5Fb/Logo1.png) widht="30%"](https://postimg.cc/)
 
 ##
 > [@tecnico.ds](https://www.instagram.com/@tecnico.ds)
