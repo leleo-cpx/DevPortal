@@ -8,11 +8,6 @@
 **[EN-US] Image Repository:** [*Post Img*](https://postimg.cc/)
 **[PT-BR] Repositório de Imagens:** [*Post Img*](https://postimg.cc/)
 
-`State Educational Institution: C. E. Francisco Carneiro Martins` <img src="https://lh3.googleusercontent.com/proxy/oJ96HMS7hxR5c53nFbJvtT7wAe44ElCjlX86gAELSmI2L8pA6URZwgvJcLMTSSkaOBidXyjrfNhpnt4dwovvLmjUZyQxENXXeRC-Iy9zm43C6hDt8f2B" height="15rem">
-
-`StudentsLeonardo França de Lima leonardo.franca.lima@escola.pr.gov.br; kalebe.santana@escola.pr.gov.br`
-
-`Teacher: Elena M. Bini (elena.bini@escola.pr.gov.br)`
-
 ##
+> **State Educational Institution:** C. E. Francisco Carneiro Martins <img src="https://lh3.googleusercontent.com/proxy/oJ96HMS7hxR5c53nFbJvtT7wAe44ElCjlX86gAELSmI2L8pA6URZwgvJcLMTSSkaOBidXyjrfNhpnt4dwovvLmjUZyQxENXXeRC-Iy9zm43C6hDt8f2B" height="20rem">
 > [@tecnico.ds](https://www.instagram.com/@tecnico.ds)
