@@ -6,7 +6,7 @@
 
 # Documentation
 
-**[IMG REPOSITORY]** [![Logo1.png](https://i.postimg.cc/4N8WY5Fb/Logo1.png) widht="30%"](https://postimg.cc/)
+**[IMG REPOSITORY]** <img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280">
 
 ##
 > [@tecnico.ds](https://www.instagram.com/@tecnico.ds)
