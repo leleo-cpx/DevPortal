@@ -6,5 +6,7 @@
 
 # Documentation
 **[EN-US] Image Repository:** [*Post Img*](https://postimg.cc/)
+**[PT-BR] Repositório de Imagens:** [*Post Img*](https://postimg.cc/)
+
 ##
 > [@tecnico.ds](https://www.instagram.com/@tecnico.ds)
