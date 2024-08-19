@@ -5,7 +5,6 @@
 **[EN-US]** This project arises as a result of carrying out an activity, the [Systems Development Technical Course](https://www.instagram.com/@tecnico.ds), in the year 2024. Its objective is to present practical 'guides' on various subjects, so far the website has only 1 (one) course available, this being, referring to Git and GitHub.
 
 # Documentation
-**[IMG REPOSITORY]** <a href="https://postimg.cc/" target="_blank">postimg.cc</a>
-
+**[EN-US] Image Repository** [<img src="https://postimgs.org/img/logo.png" height="15rem">](https://postimg.cc/)
 ##
 > [@tecnico.ds](https://www.instagram.com/@tecnico.ds)
