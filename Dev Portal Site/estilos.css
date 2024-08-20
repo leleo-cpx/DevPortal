@@ -483,6 +483,40 @@ input[type='checkbox'] {
     margin: 0;
 }
 
+/* Tela de Login */
+
+.telaLogin{
+    z-index: -1;
+    display: flex;
+    flex-direction: column;
+    background-color: #010409;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px 50px 50px 50px;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.imagem {
+ text-align: center;
+ padding-top: 10%;
+}
+
+.telaLogin input{
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: #000e22;
+    border: .1px solid #008cff;
+    color: white;
+}
+
+/* Footer */
+
 .footer2{
     padding-top: 10%;
 }
