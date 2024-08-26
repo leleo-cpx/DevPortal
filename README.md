@@ -12,4 +12,4 @@
 ##
 > **State Educational Institution:** C. E. Francisco Carneiro Martins <img src="https://lh3.googleusercontent.com/proxy/oJ96HMS7hxR5c53nFbJvtT7wAe44ElCjlX86gAELSmI2L8pA6URZwgvJcLMTSSkaOBidXyjrfNhpnt4dwovvLmjUZyQxENXXeRC-Iy9zm43C6hDt8f2B" height="20rem">
 
-> [@tecnico.ds](https://www.instagram.com/@tecnico.ds)
+> [@tecnico.ds](https://www.instagram.com/tecnico.ds)
