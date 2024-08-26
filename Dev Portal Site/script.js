@@ -4,6 +4,7 @@ burger.addEventListener('click', () => {
     navLinks.classList.toggle('active');
 });
 
+
 function myFunction() {
     var copyText = document.getElementById("myInput");
     copyText.select();
